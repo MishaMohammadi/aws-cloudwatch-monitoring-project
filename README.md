@@ -94,14 +94,37 @@ Created a CloudWatch dashboard containing:
 
 The screenshots folder contains evidence of:
 
-* EC2 Instance Running
-* CloudWatch Metrics
-* SNS Topic Creation
-* Email Subscription Confirmation
-* Alarm Configuration
-* Alarm Triggered State
-* Email Notification
-* Dashboard Creation
+## Screenshots
+
+### EC2 Instance Running
+![EC2 Instance Running](screenshots/1-ec2-instance-running.png)
+
+### Connected to EC2 Terminal
+![EC2 Terminal](screenshots/2-ec2-terminal.png)
+
+### CloudWatch Metrics
+![CloudWatch Metrics](screenshots/3-cloudwatch-metrics.png)
+
+### SNS Topic Created
+![SNS Topic](screenshots/4-sns-topic-created.png)
+
+### Email Subscription Confirmed
+![Subscription Confirmed](screenshots/5-subscription-confirmed.png)
+
+### CloudWatch Alarm Created
+![Alarm Created](screenshots/6-alarm-created.png)
+
+### Alarm Triggered
+![Alarm Triggered](screenshots/7-alarm-triggered.png)
+
+### SNS Email Notification
+![Email Notification](screenshots/8-email-notification.png)
+
+### CloudWatch Dashboard
+![CloudWatch Dashboard](screenshots/9-dashboard-created.png)
+
+### Alarm Returned to OK State
+![Alarm OK State](screenshots/10-alarm-ok-state.png)
 
 ## Key Learnings
 
