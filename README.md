@@ -103,13 +103,13 @@ The screenshots folder contains evidence of:
 ![EC2 Terminal](screenshots/2-ec2-terminal.png)
 
 ### CloudWatch Metrics
-![CloudWatch Metrics](screenshots/3-cloudwatch-metrics.png)
+![CloudWatch Metrics](screenshots/3-metrics-page.png)
 
 ### SNS Topic Created
 ![SNS Topic](screenshots/4-sns-topic-created.png)
 
 ### Email Subscription Confirmed
-![Subscription Confirmed](screenshots/5-subscription-confirmed.png)
+![Subscription Confirmed](screenshots/5-email-subscription.png)
 
 ### CloudWatch Alarm Created
 ![Alarm Created](screenshots/6-alarm-created.png)
@@ -118,7 +118,7 @@ The screenshots folder contains evidence of:
 ![Alarm Triggered](screenshots/7-alarm-triggered.png)
 
 ### SNS Email Notification
-![Email Notification](screenshots/8-email-notification.png)
+![Email Notification](screenshots/8-email-alert.png)
 
 ### CloudWatch Dashboard
 ![CloudWatch Dashboard](screenshots/9-dashboard-created.png)
